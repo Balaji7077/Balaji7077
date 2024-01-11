@@ -1,15 +1,24 @@
 
 
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Balaji Sabat</h1>
 <h3 align="center">A Btech graduate with a penchant for exploring various innovations emerging in the IT industry.</h3>
 
-<img align='right' alt='Coding' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2m5x_aADueocVJ9sdT5_G_&ust=1703835260561000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCes5zPsYMDFQAAAAAdAAAAABAP'>
+
+<img align='right' alt='Coding' width='400' src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisabat&label=Profile%20views&color=0e75b6&style=flat" alt="balajisabat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Quiz Application Development & Face Clone**
+- 🔭 I’m currently working on **Facebook  Clone**
+
+- 🔭 I have worked on **Quiz application development**
 
 - 🌱 I’m currently learning **Django & Flask**
 
@@ -29,3 +38,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=balajisabat&show_icons=true&locale=en&layout=compact" alt="balajisabat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balajisabat&" alt="balajisabat" /></p>
+
