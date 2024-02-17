@@ -16,9 +16,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Facebook  Clone**
+- 🔭 I’m currently working on **Resturant Appliction**
 
-- 🔭 I have worked on **Quiz application development**
+- 🔭 I have worked on **Quiz application development and Facebook Clone**
 
 - 🌱 I’m currently learning **Django & Flask**
 
