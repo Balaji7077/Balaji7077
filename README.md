@@ -16,13 +16,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Resturant Appliction**
+- 🔭 I’m currently working on **WetherApi**
 
-- 🔭 I have worked on **Quiz application development and Facebook Clone**
+- 🔭 I have worked on **Quiz application development, Facebook Clone, User Registration and Weather Api_Application**
 
-- 🌱 I’m currently learning **Django & Flask**
+- 🌱 I’m currently learning **FastApi**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Django, Flask, SQL, RestApi, Selenium**
 
 - 📫 How to reach me **balajisabat6@gmail.com**
 
